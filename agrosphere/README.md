@@ -112,12 +112,12 @@ http://localhost:8080/swagger-ui/index.html
 
 ## 🎥 Vídeo de Apresentação
 
-Link: INSERIR_LINK
+Link Projeto: https://youtu.be/4CU3tFmwbFU
+
+Link Pitch: https://youtu.be/fkL699Wi4qA
 
 ---
 
-## 🌐 Deploy
 
-Link: INSERIR_LINK
 
 
