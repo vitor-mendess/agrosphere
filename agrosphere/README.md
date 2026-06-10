@@ -116,6 +116,12 @@ Link Projeto: https://youtu.be/4CU3tFmwbFU
 
 Link Pitch: https://youtu.be/fkL699Wi4qA
 
+-----
+
+# Deploy Publico
+
+https://agrosphere-production.up.railway.app/swagger-ui/index.html
+
 
 
 
